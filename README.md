@@ -78,5 +78,5 @@ Expected output: High risk of diabetes
 - Recall for diabetes cases (1) is lower than for healthy cases (0) — a real-world challenge in medical ML
 - Clean data preprocessing is as important as model selection
 
-👨‍💻 Author
+## 👨‍💻 Author
 Created by Sujal Naik as a personal portfolio project to practice Python, data analytics, and software engineering fundamentals.
